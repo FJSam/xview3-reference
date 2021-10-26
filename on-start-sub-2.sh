@@ -24,6 +24,5 @@ pip install --quiet boto3
 pip install sagemaker
 pip install efficientnet_pytorch
 pip install tensorboardX
-pip install pycocotools
 echo "Finished background installations"
 EOF
